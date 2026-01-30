@@ -8,7 +8,7 @@ This repository contains small C programs and snippets. The goal is exploration 
 
 ## Requirements
 
-On Debian or Ubuntu-based systems, install the required tools:
+On Debian/Ubuntu-based systems, install the GNU Compiler Collection (GCC):
 
 ```bash
 sudo apt install gcc
